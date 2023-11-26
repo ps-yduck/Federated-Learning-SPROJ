@@ -1,0 +1,891 @@
+batch_number,package_name,ttid_under_FL,ttid_under_Idle,mobile_name
+1,Youtube,10118,2583,nokia 1
+1,Camera,5695,446,nokia 1
+1,Chrome,1933,700,nokia 1
+2,Youtube,7207,734,nokia 1
+2,Camera,4641,404,nokia 1
+2,Chrome,2654,500,nokia 1
+3,Youtube,3967,586,nokia 1
+3,Camera,5097,382,nokia 1
+3,Chrome,1293,526,nokia 1
+4,Youtube,7021,827,nokia 1
+4,Camera,4532,397,nokia 1
+4,Chrome,2375,543,nokia 1
+5,Youtube,12699,634,nokia 1
+5,Camera,5522,376,nokia 1
+5,Chrome,2539,492,nokia 1
+6,Youtube,3614,648,nokia 1
+6,Camera,5490,380,nokia 1
+6,Chrome,2134,553,nokia 1
+7,Youtube,12510,1422,nokia 1
+7,Camera,5506,448,nokia 1
+7,Chrome,2227,495,nokia 1
+8,Youtube,3651,637,nokia 1
+8,Camera,4766,388,nokia 1
+8,Chrome,2725,527,nokia 1
+9,Youtube,13764,539,nokia 1
+9,Camera,6205,363,nokia 1
+9,Chrome,2773,494,nokia 1
+10,Youtube,11941,531,nokia 1
+10,Camera,5157,358,nokia 1
+10,Chrome,2454,514,nokia 1
+11,Youtube,11739,2583,nokia 1
+11,Camera,5613,446,nokia 1
+11,Chrome,2324,700,nokia 1
+12,Youtube,12295,734,nokia 1
+12,Camera,5699,404,nokia 1
+12,Chrome,2148,500,nokia 1
+13,Youtube,12503,586,nokia 1
+13,Camera,5389,382,nokia 1
+13,Chrome,2129,526,nokia 1
+14,Youtube,6972,827,nokia 1
+14,Camera,3831,397,nokia 1
+14,Chrome,2653,543,nokia 1
+15,Youtube,12677,634,nokia 1
+15,Camera,5899,376,nokia 1
+15,Chrome,2783,492,nokia 1
+16,Youtube,7648,648,nokia 1
+16,Camera,5274,380,nokia 1
+16,Chrome,2594,553,nokia 1
+17,Youtube,11321,1422,nokia 1
+17,Camera,6500,448,nokia 1
+17,Chrome,1992,495,nokia 1
+18,Youtube,7345,637,nokia 1
+18,Camera,4775,388,nokia 1
+18,Chrome,3013,527,nokia 1
+19,Youtube,12241,539,nokia 1
+19,Camera,5826,363,nokia 1
+19,Chrome,1417,494,nokia 1
+20,Youtube,7909,531,nokia 1
+20,Camera,4635,358,nokia 1
+20,Chrome,2611,514,nokia 1
+21,Youtube,7129,2583,nokia 1
+21,Camera,4843,446,nokia 1
+21,Chrome,2651,700,nokia 1
+22,Youtube,13195,734,nokia 1
+22,Camera,5049,404,nokia 1
+22,Chrome,2531,500,nokia 1
+23,Youtube,6966,586,nokia 1
+23,Camera,4802,382,nokia 1
+23,Chrome,2429,526,nokia 1
+24,Youtube,11708,827,nokia 1
+24,Camera,6371,397,nokia 1
+24,Chrome,1416,543,nokia 1
+25,Youtube,12566,634,nokia 1
+25,Camera,6887,376,nokia 1
+25,Chrome,1964,492,nokia 1
+26,Youtube,7300,648,nokia 1
+26,Camera,4657,380,nokia 1
+26,Chrome,2663,553,nokia 1
+27,Youtube,10736,1422,nokia 1
+27,Camera,5661,448,nokia 1
+27,Chrome,1898,495,nokia 1
+28,Youtube,12358,637,nokia 1
+28,Camera,5197,388,nokia 1
+28,Chrome,2407,527,nokia 1
+29,Youtube,8505,539,nokia 1
+29,Camera,4611,363,nokia 1
+29,Chrome,2565,494,nokia 1
+30,Youtube,10348,531,nokia 1
+30,Camera,5307,358,nokia 1
+30,Chrome,2499,514,nokia 1
+31,Youtube,10337,2583,nokia 1
+31,Camera,5513,446,nokia 1
+31,Chrome,1289,700,nokia 1
+32,Youtube,6918,734,nokia 1
+32,Camera,4677,404,nokia 1
+32,Chrome,2617,500,nokia 1
+33,Youtube,13176,586,nokia 1
+33,Camera,5472,382,nokia 1
+33,Chrome,2693,526,nokia 1
+34,Youtube,7196,827,nokia 1
+34,Camera,4479,397,nokia 1
+34,Chrome,1846,543,nokia 1
+35,Youtube,13521,634,nokia 1
+35,Camera,6216,376,nokia 1
+35,Chrome,1312,492,nokia 1
+36,Youtube,8390,648,nokia 1
+36,Camera,4687,380,nokia 1
+36,Chrome,2631,553,nokia 1
+37,Youtube,10699,1422,nokia 1
+37,Camera,4228,448,nokia 1
+37,Chrome,2348,495,nokia 1
+38,Youtube,12889,637,nokia 1
+38,Camera,6073,388,nokia 1
+38,Chrome,1224,527,nokia 1
+39,Youtube,9099,539,nokia 1
+39,Camera,4656,363,nokia 1
+39,Chrome,2778,494,nokia 1
+40,Youtube,12358,531,nokia 1
+40,Camera,6911,358,nokia 1
+40,Chrome,1802,514,nokia 1
+41,Youtube,6042,2583,nokia 1
+41,Camera,4370,446,nokia 1
+41,Chrome,2374,700,nokia 1
+42,Youtube,14454,734,nokia 1
+42,Camera,6097,404,nokia 1
+42,Chrome,1933,500,nokia 1
+43,Youtube,12553,586,nokia 1
+43,Camera,6548,382,nokia 1
+43,Chrome,2161,526,nokia 1
+44,Youtube,10467,827,nokia 1
+44,Camera,5687,397,nokia 1
+44,Chrome,2374,543,nokia 1
+45,Youtube,14611,634,nokia 1
+45,Camera,6627,376,nokia 1
+45,Chrome,2117,492,nokia 1
+46,Youtube,15207,648,nokia 1
+46,Camera,5188,380,nokia 1
+46,Chrome,2552,553,nokia 1
+47,Youtube,10930,1422,nokia 1
+47,Camera,5183,448,nokia 1
+47,Chrome,2706,495,nokia 1
+48,Youtube,13817,637,nokia 1
+48,Camera,5154,388,nokia 1
+48,Chrome,2504,527,nokia 1
+49,Youtube,15725,539,nokia 1
+49,Camera,5759,363,nokia 1
+49,Chrome,2438,494,nokia 1
+50,Youtube,12224,531,nokia 1
+50,Camera,6825,358,nokia 1
+50,Chrome,1833,514,nokia 1
+2,Youtube,12893,2136,nokia 1
+2,Camera,1733,394,nokia 1
+2,Chrome,1816,5556,nokia 1
+3,Youtube,7673,680,nokia 1
+3,Camera,1887,366,nokia 1
+3,Chrome,3026,498,nokia 1
+4,Youtube,13520,827,nokia 1
+4,Camera,1840,365,nokia 1
+4,Chrome,2765,5545,nokia 1
+5,Youtube,6049,839,nokia 1
+5,Camera,2068,456,nokia 1
+5,Chrome,2486,5622,nokia 1
+6,Youtube,13755,650,nokia 1
+6,Camera,2026,357,nokia 1
+6,Chrome,2290,5528,nokia 1
+7,Youtube,13908,574,nokia 1
+7,Camera,1753,375,nokia 1
+7,Chrome,1902,5527,nokia 1
+8,Youtube,13251,576,nokia 1
+8,Camera,2390,349,nokia 1
+8,Chrome,2539,5637,nokia 1
+9,Youtube,14014,613,nokia 1
+9,Camera,3352,343,nokia 1
+9,Chrome,1951,494,nokia 1
+10,Youtube,7917,626,nokia 1
+10,Camera,2050,341,nokia 1
+10,Chrome,2659,5515,nokia 1
+11,Youtube,12614,612,nokia 1
+11,Camera,415,360,nokia 1
+11,Chrome,3759,529,nokia 1
+12,Camera,1971,347,nokia 1
+12,Chrome,2636,5711,nokia 1
+13,Youtube,14719,1537,nokia 1
+13,Camera,2430,491,nokia 1
+13,Chrome,2459,5536,nokia 1
+14,Youtube,13087,600,nokia 1
+14,Camera,1791,331,nokia 1
+14,Chrome,2395,506,nokia 1
+15,Youtube,14827,597,nokia 1
+15,Camera,528,370,nokia 1
+15,Chrome,4267,5530,nokia 1
+16,Youtube,12127,503,nokia 1
+16,Camera,2188,365,nokia 1
+16,Chrome,2222,489,nokia 1
+17,Youtube,12275,1273,nokia 1
+17,Camera,1983,493,nokia 1
+17,Chrome,2514,782,nokia 1
+18,Youtube,8618,1005,nokia 1
+18,Camera,1912,361,nokia 1
+18,Chrome,2455,5526,nokia 1
+19,Youtube,13267,770,nokia 1
+19,Camera,1723,630,nokia 1
+19,Chrome,2303,1017,nokia 1
+20,Youtube,12764,888,nokia 1
+20,Camera,1756,340,nokia 1
+20,Chrome,2217,533,nokia 1
+21,Youtube,7043,537,nokia 1
+21,Camera,3038,336,nokia 1
+21,Chrome,2427,5557,nokia 1
+22,Youtube,13343,1323,nokia 1
+22,Camera,1996,357,nokia 1
+22,Chrome,3028,5511,nokia 1
+23,Youtube,6196,599,nokia 1
+23,Camera,1823,364,nokia 1
+23,Chrome,2581,5522,nokia 1
+24,Youtube,13510,582,nokia 1
+24,Camera,1761,518,nokia 1
+24,Chrome,2236,5502,nokia 1
+25,Youtube,13432,568,nokia 1
+25,Camera,2126,337,nokia 1
+25,Chrome,2632,1569,nokia 1
+26,Youtube,15087,1270,nokia 1
+26,Camera,1746,509,nokia 1
+26,Chrome,2662,5539,nokia 1
+27,Youtube,8048,601,nokia 1
+27,Camera,1744,364,nokia 1
+27,Chrome,2342,487,nokia 1
+28,Youtube,14210,501,nokia 1
+28,Camera,1302,363,nokia 1
+28,Chrome,2475,5509,nokia 1
+29,Youtube,13074,502,nokia 1
+29,Camera,1939,354,nokia 1
+29,Chrome,2644,512,nokia 1
+30,Youtube,11654,597,nokia 1
+30,Camera,1899,423,nokia 1
+30,Chrome,2583,922,nokia 1
+31,Youtube,12358,1099,nokia 1
+31,Camera,2183,347,nokia 1
+31,Chrome,2480,5531,nokia 1
+32,Youtube,17946,697,nokia 1
+32,Camera,1882,353,nokia 1
+32,Chrome,2698,5508,nokia 1
+33,Youtube,14041,502,nokia 1
+33,Camera,1862,374,nokia 1
+33,Chrome,2572,5507,nokia 1
+34,Youtube,15420,538,nokia 1
+34,Camera,1933,361,nokia 1
+34,Chrome,2184,490,nokia 1
+35,Youtube,8024,988,nokia 1
+35,Camera,1345,395,nokia 1
+35,Chrome,2718,5535,nokia 1
+36,Youtube,11372,1045,nokia 1
+36,Camera,1760,349,nokia 1
+36,Chrome,2251,474,nokia 1
+37,Youtube,17542,572,nokia 1
+37,Camera,1717,368,nokia 1
+37,Chrome,2509,5561,nokia 1
+38,Youtube,13712,586,nokia 1
+38,Camera,1881,364,nokia 1
+38,Chrome,2690,480,nokia 1
+39,Youtube,8372,589,nokia 1
+39,Camera,1775,361,nokia 1
+39,Chrome,2535,483,nokia 1
+40,Youtube,13411,493,nokia 1
+40,Camera,1751,356,nokia 1
+40,Chrome,2557,5571,nokia 1
+41,Youtube,14702,511,nokia 1
+41,Camera,1996,375,nokia 1
+41,Chrome,1877,5871,nokia 1
+42,Youtube,7226,1214,nokia 1
+42,Camera,1963,504,nokia 1
+42,Chrome,2845,5520,nokia 1
+43,Youtube,13668,523,nokia 1
+43,Camera,1899,358,nokia 1
+43,Chrome,2213,5522,nokia 1
+44,Youtube,14592,503,nokia 1
+44,Camera,1978,357,nokia 1
+44,Chrome,2705,5518,nokia 1
+45,Youtube,13907,511,nokia 1
+45,Camera,1847,349,nokia 1
+45,Chrome,2395,5508,nokia 1
+46,Youtube,15247,505,nokia 1
+46,Camera,1804,376,nokia 1
+46,Chrome,2626,5511,nokia 1
+47,Youtube,14783,659,nokia 1
+47,Camera,2127,370,nokia 1
+47,Chrome,2129,5517,nokia 1
+48,Youtube,13203,572,nokia 1
+48,Camera,1380,383,nokia 1
+48,Chrome,2709,5530,nokia 1
+49,Youtube,12532,1415,nokia 1
+49,Camera,1802,556,nokia 1
+49,Chrome,2804,5699,nokia 1
+50,Youtube,13433,504,nokia 1
+50,Camera,1956,403,nokia 1
+50,Chrome,2679,847,nokia 1
+2,Youtube,1724,438,nexus 6p
+2,Camera,499,223,nexus 6p
+2,Chrome,342,290,nexus 6p
+3,Youtube,458,261,nexus 6p
+3,Camera,543,250,nexus 6p
+3,Chrome,287,236,nexus 6p
+4,Youtube,540,244,nexus 6p
+4,Camera,246,214,nexus 6p
+4,Chrome,290,228,nexus 6p
+5,Youtube,473,266,nexus 6p
+5,Camera,286,244,nexus 6p
+5,Chrome,296,234,nexus 6p
+6,Youtube,360,284,nexus 6p
+6,Camera,324,205,nexus 6p
+6,Chrome,313,232,nexus 6p
+7,Youtube,516,263,nexus 6p
+7,Camera,395,239,nexus 6p
+7,Chrome,297,237,nexus 6p
+8,Youtube,540,289,nexus 6p
+8,Camera,501,234,nexus 6p
+8,Chrome,305,239,nexus 6p
+9,Youtube,449,299,nexus 6p
+9,Camera,599,223,nexus 6p
+9,Chrome,269,257,nexus 6p
+10,Youtube,452,256,nexus 6p
+10,Camera,289,219,nexus 6p
+10,Chrome,283,239,nexus 6p
+11,Youtube,334,255,nexus 6p
+11,Camera,470,229,nexus 6p
+11,Chrome,339,234,nexus 6p
+12,Youtube,314,233,nexus 6p
+12,Camera,420,209,nexus 6p
+12,Chrome,375,256,nexus 6p
+13,Youtube,522,250,nexus 6p
+13,Camera,442,199,nexus 6p
+13,Chrome,319,266,nexus 6p
+14,Youtube,476,271,nexus 6p
+14,Camera,437,211,nexus 6p
+14,Chrome,344,249,nexus 6p
+15,Youtube,633,272,nexus 6p
+15,Camera,397,216,nexus 6p
+15,Chrome,241,242,nexus 6p
+16,Youtube,424,316,nexus 6p
+16,Camera,298,210,nexus 6p
+16,Chrome,293,283,nexus 6p
+17,Youtube,343,280,nexus 6p
+17,Camera,388,204,nexus 6p
+17,Chrome,314,245,nexus 6p
+18,Youtube,418,302,nexus 6p
+18,Camera,386,224,nexus 6p
+18,Chrome,319,234,nexus 6p
+19,Youtube,493,340,nexus 6p
+19,Camera,526,241,nexus 6p
+19,Chrome,288,295,nexus 6p
+20,Youtube,417,400,nexus 6p
+20,Camera,507,250,nexus 6p
+20,Chrome,338,256,nexus 6p
+21,Youtube,457,302,nexus 6p
+21,Camera,427,224,nexus 6p
+21,Chrome,290,220,nexus 6p
+22,Youtube,538,263,nexus 6p
+22,Camera,356,268,nexus 6p
+22,Chrome,278,278,nexus 6p
+23,Youtube,447,472,nexus 6p
+23,Camera,249,207,nexus 6p
+23,Chrome,321,284,nexus 6p
+24,Youtube,426,249,nexus 6p
+24,Camera,400,221,nexus 6p
+24,Chrome,308,227,nexus 6p
+25,Youtube,513,243,nexus 6p
+25,Camera,463,190,nexus 6p
+25,Chrome,307,238,nexus 6p
+26,Youtube,484,248,nexus 6p
+26,Camera,402,214,nexus 6p
+26,Chrome,311,236,nexus 6p
+27,Youtube,424,257,nexus 6p
+27,Camera,338,210,nexus 6p
+27,Chrome,314,302,nexus 6p
+28,Youtube,424,271,nexus 6p
+28,Camera,344,248,nexus 6p
+28,Chrome,380,238,nexus 6p
+29,Youtube,870,222,nexus 6p
+29,Camera,501,217,nexus 6p
+29,Chrome,271,264,nexus 6p
+30,Youtube,1084,748,nexus 6p
+30,Camera,310,238,nexus 6p
+30,Chrome,288,235,nexus 6p
+31,Youtube,402,412,nexus 6p
+31,Camera,459,219,nexus 6p
+31,Chrome,303,233,nexus 6p
+32,Youtube,295,277,nexus 6p
+32,Camera,452,205,nexus 6p
+32,Chrome,305,231,nexus 6p
+33,Youtube,444,259,nexus 6p
+33,Camera,414,225,nexus 6p
+33,Chrome,319,236,nexus 6p
+34,Youtube,449,282,nexus 6p
+34,Camera,466,195,nexus 6p
+34,Chrome,320,259,nexus 6p
+35,Youtube,466,281,nexus 6p
+35,Camera,488,227,nexus 6p
+35,Chrome,369,252,nexus 6p
+36,Youtube,501,259,nexus 6p
+36,Camera,403,219,nexus 6p
+36,Chrome,389,242,nexus 6p
+37,Youtube,517,279,nexus 6p
+37,Camera,453,226,nexus 6p
+37,Chrome,330,246,nexus 6p
+38,Youtube,397,291,nexus 6p
+38,Camera,428,208,nexus 6p
+38,Chrome,323,253,nexus 6p
+39,Youtube,413,314,nexus 6p
+39,Camera,319,235,nexus 6p
+39,Chrome,297,248,nexus 6p
+40,Youtube,417,284,nexus 6p
+40,Camera,339,235,nexus 6p
+40,Chrome,288,237,nexus 6p
+41,Youtube,411,264,nexus 6p
+41,Camera,454,236,nexus 6p
+41,Chrome,316,230,nexus 6p
+42,Youtube,386,282,nexus 6p
+42,Camera,402,204,nexus 6p
+42,Chrome,303,249,nexus 6p
+43,Youtube,554,274,nexus 6p
+43,Camera,405,211,nexus 6p
+43,Chrome,329,224,nexus 6p
+44,Youtube,439,248,nexus 6p
+44,Camera,351,223,nexus 6p
+44,Chrome,332,248,nexus 6p
+45,Youtube,511,281,nexus 6p
+45,Camera,363,227,nexus 6p
+45,Chrome,297,236,nexus 6p
+46,Youtube,414,250,nexus 6p
+46,Camera,380,215,nexus 6p
+46,Chrome,312,239,nexus 6p
+47,Youtube,450,306,nexus 6p
+47,Camera,350,214,nexus 6p
+47,Chrome,303,222,nexus 6p
+48,Youtube,427,282,nexus 6p
+48,Camera,323,252,nexus 6p
+48,Chrome,285,228,nexus 6p
+49,Youtube,478,293,nexus 6p
+49,Camera,255,206,nexus 6p
+49,Chrome,336,248,nexus 6p
+50,Youtube,412,256,nexus 6p
+50,Camera,305,196,nexus 6p
+50,Chrome,326,240,nexus 6p
+51,Youtube,374,299,nexus 6p
+51,Camera,306,250,nexus 6p
+51,Chrome,366,230,nexus 6p
+52,Youtube,458,276,nexus 6p
+52,Camera,356,224,nexus 6p
+52,Chrome,285,225,nexus 6p
+53,Youtube,480,355,nexus 6p
+53,Camera,361,241,nexus 6p
+53,Chrome,315,230,nexus 6p
+54,Youtube,372,290,nexus 6p
+54,Camera,423,212,nexus 6p
+54,Chrome,290,239,nexus 6p
+55,Youtube,430,266,nexus 6p
+55,Camera,379,243,nexus 6p
+55,Chrome,349,234,nexus 6p
+56,Youtube,679,278,nexus 6p
+56,Camera,333,226,nexus 6p
+56,Chrome,331,228,nexus 6p
+57,Youtube,1040,299,nexus 6p
+57,Camera,373,242,nexus 6p
+57,Chrome,283,229,nexus 6p
+58,Youtube,428,261,nexus 6p
+58,Camera,346,250,nexus 6p
+58,Chrome,294,250,nexus 6p
+59,Youtube,365,323,nexus 6p
+59,Camera,340,237,nexus 6p
+59,Chrome,314,228,nexus 6p
+60,Youtube,325,402,nexus 6p
+60,Camera,371,224,nexus 6p
+60,Chrome,287,233,nexus 6p
+61,Youtube,416,231,nexus 6p
+61,Camera,323,219,nexus 6p
+61,Chrome,302,228,nexus 6p
+62,Youtube,499,262,nexus 6p
+62,Camera,387,204,nexus 6p
+62,Chrome,324,241,nexus 6p
+63,Youtube,445,286,nexus 6p
+63,Camera,401,230,nexus 6p
+63,Chrome,290,235,nexus 6p
+64,Youtube,499,263,nexus 6p
+64,Camera,312,218,nexus 6p
+64,Chrome,309,245,nexus 6p
+65,Youtube,420,237,nexus 6p
+65,Camera,397,207,nexus 6p
+65,Chrome,312,251,nexus 6p
+66,Youtube,402,285,nexus 6p
+66,Camera,409,196,nexus 6p
+66,Chrome,329,238,nexus 6p
+67,Youtube,568,263,nexus 6p
+67,Camera,431,212,nexus 6p
+67,Chrome,482,232,nexus 6p
+68,Youtube,426,291,nexus 6p
+68,Camera,387,192,nexus 6p
+68,Chrome,274,256,nexus 6p
+69,Youtube,430,228,nexus 6p
+69,Camera,322,229,nexus 6p
+69,Chrome,302,273,nexus 6p
+70,Youtube,425,244,nexus 6p
+70,Camera,325,223,nexus 6p
+70,Chrome,405,249,nexus 6p
+71,Youtube,430,278,nexus 6p
+71,Camera,377,219,nexus 6p
+71,Chrome,319,252,nexus 6p
+72,Youtube,294,242,nexus 6p
+72,Camera,372,232,nexus 6p
+72,Chrome,303,247,nexus 6p
+73,Youtube,408,245,nexus 6p
+73,Camera,442,212,nexus 6p
+73,Chrome,328,254,nexus 6p
+74,Youtube,419,233,nexus 6p
+74,Camera,486,239,nexus 6p
+74,Chrome,311,258,nexus 6p
+75,Youtube,387,264,nexus 6p
+75,Camera,397,262,nexus 6p
+75,Chrome,302,230,nexus 6p
+76,Youtube,377,228,nexus 6p
+76,Camera,432,226,nexus 6p
+76,Chrome,301,243,nexus 6p
+77,Youtube,481,257,nexus 6p
+77,Camera,489,231,nexus 6p
+77,Chrome,317,227,nexus 6p
+78,Youtube,422,242,nexus 6p
+78,Camera,444,191,nexus 6p
+78,Chrome,259,239,nexus 6p
+79,Youtube,406,260,nexus 6p
+79,Camera,325,253,nexus 6p
+79,Chrome,292,251,nexus 6p
+80,Youtube,358,265,nexus 6p
+80,Camera,318,250,nexus 6p
+80,Chrome,293,253,nexus 6p
+81,Youtube,457,322,nexus 6p
+81,Camera,532,231,nexus 6p
+81,Chrome,293,232,nexus 6p
+82,Youtube,383,313,nexus 6p
+82,Camera,414,241,nexus 6p
+82,Chrome,326,235,nexus 6p
+83,Youtube,770,363,nexus 6p
+83,Camera,371,220,nexus 6p
+83,Chrome,341,239,nexus 6p
+84,Youtube,781,275,nexus 6p
+84,Camera,441,227,nexus 6p
+84,Chrome,307,250,nexus 6p
+85,Youtube,504,286,nexus 6p
+85,Camera,376,208,nexus 6p
+85,Chrome,291,245,nexus 6p
+86,Youtube,466,300,nexus 6p
+86,Camera,336,254,nexus 6p
+86,Chrome,299,274,nexus 6p
+87,Youtube,497,285,nexus 6p
+87,Camera,479,222,nexus 6p
+87,Chrome,315,314,nexus 6p
+88,Youtube,388,317,nexus 6p
+88,Camera,334,225,nexus 6p
+88,Chrome,298,233,nexus 6p
+89,Youtube,408,367,nexus 6p
+89,Camera,260,228,nexus 6p
+89,Chrome,306,270,nexus 6p
+90,Youtube,356,246,nexus 6p
+90,Camera,357,228,nexus 6p
+90,Chrome,323,231,nexus 6p
+91,Youtube,395,297,nexus 6p
+91,Camera,424,224,nexus 6p
+91,Chrome,289,242,nexus 6p
+92,Youtube,417,236,nexus 6p
+92,Camera,363,238,nexus 6p
+92,Chrome,303,232,nexus 6p
+93,Youtube,403,234,nexus 6p
+93,Camera,403,237,nexus 6p
+93,Chrome,425,240,nexus 6p
+94,Youtube,464,287,nexus 6p
+94,Camera,286,224,nexus 6p
+94,Chrome,286,268,nexus 6p
+95,Youtube,368,278,nexus 6p
+95,Camera,387,223,nexus 6p
+95,Chrome,284,244,nexus 6p
+96,Youtube,358,232,nexus 6p
+96,Camera,401,217,nexus 6p
+96,Chrome,261,231,nexus 6p
+97,Youtube,397,255,nexus 6p
+97,Camera,301,209,nexus 6p
+97,Chrome,282,245,nexus 6p
+98,Youtube,389,303,nexus 6p
+98,Camera,245,205,nexus 6p
+98,Chrome,282,247,nexus 6p
+99,Youtube,388,264,nexus 6p
+99,Camera,323,219,nexus 6p
+99,Chrome,328,219,nexus 6p
+100,Youtube,286,276,nexus 6p
+100,Camera,330,225,nexus 6p
+100,Chrome,270,240,nexus 6p
+2,Youtube,243,141,samsung s9 plus
+2,Camera,164,145,samsung s9 plus
+2,Chrome,253,315,samsung s9 plus
+3,Youtube,157,133,samsung s9 plus
+3,Camera,137,139,samsung s9 plus
+3,Chrome,260,294,samsung s9 plus
+4,Youtube,148,140,samsung s9 plus
+4,Camera,140,138,samsung s9 plus
+4,Chrome,296,299,samsung s9 plus
+5,Youtube,145,138,samsung s9 plus
+5,Camera,140,133,samsung s9 plus
+5,Chrome,287,300,samsung s9 plus
+6,Youtube,155,128,samsung s9 plus
+6,Camera,149,129,samsung s9 plus
+6,Chrome,301,324,samsung s9 plus
+7,Youtube,178,139,samsung s9 plus
+7,Camera,152,132,samsung s9 plus
+7,Chrome,305,260,samsung s9 plus
+8,Youtube,163,130,samsung s9 plus
+8,Camera,134,131,samsung s9 plus
+8,Chrome,316,329,samsung s9 plus
+9,Youtube,173,139,samsung s9 plus
+9,Camera,142,129,samsung s9 plus
+9,Chrome,300,316,samsung s9 plus
+10,Youtube,251,155,samsung s9 plus
+10,Camera,141,138,samsung s9 plus
+10,Chrome,299,321,samsung s9 plus
+11,Youtube,210,192,samsung s9 plus
+11,Camera,147,149,samsung s9 plus
+11,Chrome,300,323,samsung s9 plus
+12,Youtube,155,143,samsung s9 plus
+12,Camera,140,136,samsung s9 plus
+12,Chrome,283,300,samsung s9 plus
+13,Youtube,155,143,samsung s9 plus
+13,Camera,146,134,samsung s9 plus
+13,Chrome,261,302,samsung s9 plus
+14,Youtube,155,123,samsung s9 plus
+14,Camera,120,130,samsung s9 plus
+14,Chrome,268,286,samsung s9 plus
+15,Youtube,147,132,samsung s9 plus
+15,Camera,149,154,samsung s9 plus
+15,Chrome,302,272,samsung s9 plus
+16,Youtube,196,138,samsung s9 plus
+16,Camera,149,126,samsung s9 plus
+16,Chrome,321,328,samsung s9 plus
+17,Youtube,160,138,samsung s9 plus
+17,Camera,159,162,samsung s9 plus
+17,Chrome,272,311,samsung s9 plus
+18,Youtube,159,131,samsung s9 plus
+18,Camera,145,170,samsung s9 plus
+18,Chrome,299,301,samsung s9 plus
+19,Youtube,192,155,samsung s9 plus
+19,Camera,149,165,samsung s9 plus
+19,Chrome,293,311,samsung s9 plus
+20,Youtube,211,190,samsung s9 plus
+20,Camera,152,145,samsung s9 plus
+20,Chrome,297,332,samsung s9 plus
+21,Youtube,149,139,samsung s9 plus
+21,Camera,163,132,samsung s9 plus
+21,Chrome,296,335,samsung s9 plus
+22,Youtube,151,165,samsung s9 plus
+22,Camera,159,147,samsung s9 plus
+22,Chrome,303,300,samsung s9 plus
+23,Youtube,154,137,samsung s9 plus
+23,Camera,146,147,samsung s9 plus
+23,Chrome,315,302,samsung s9 plus
+24,Youtube,161,130,samsung s9 plus
+24,Camera,149,171,samsung s9 plus
+24,Chrome,298,307,samsung s9 plus
+25,Youtube,162,145,samsung s9 plus
+25,Camera,151,132,samsung s9 plus
+25,Chrome,282,310,samsung s9 plus
+26,Youtube,156,135,samsung s9 plus
+26,Camera,165,129,samsung s9 plus
+26,Chrome,260,331,samsung s9 plus
+27,Youtube,155,160,samsung s9 plus
+27,Camera,136,130,samsung s9 plus
+27,Chrome,259,322,samsung s9 plus
+28,Youtube,199,151,samsung s9 plus
+28,Camera,145,143,samsung s9 plus
+28,Chrome,297,286,samsung s9 plus
+29,Youtube,208,178,samsung s9 plus
+29,Camera,131,162,samsung s9 plus
+29,Chrome,309,333,samsung s9 plus
+30,Youtube,143,132,samsung s9 plus
+30,Camera,148,140,samsung s9 plus
+30,Chrome,291,339,samsung s9 plus
+31,Youtube,179,123,samsung s9 plus
+31,Camera,123,138,samsung s9 plus
+31,Chrome,292,291,samsung s9 plus
+32,Youtube,155,136,samsung s9 plus
+32,Camera,147,136,samsung s9 plus
+32,Chrome,267,334,samsung s9 plus
+33,Youtube,160,130,samsung s9 plus
+33,Camera,134,130,samsung s9 plus
+33,Chrome,280,338,samsung s9 plus
+34,Youtube,151,137,samsung s9 plus
+34,Camera,129,147,samsung s9 plus
+34,Chrome,296,322,samsung s9 plus
+35,Youtube,142,128,samsung s9 plus
+35,Camera,133,159,samsung s9 plus
+35,Chrome,314,287,samsung s9 plus
+36,Youtube,145,150,samsung s9 plus
+36,Camera,165,159,samsung s9 plus
+36,Chrome,289,312,samsung s9 plus
+37,Youtube,208,182,samsung s9 plus
+37,Camera,148,151,samsung s9 plus
+37,Chrome,302,356,samsung s9 plus
+38,Youtube,219,172,samsung s9 plus
+38,Camera,146,121,samsung s9 plus
+38,Chrome,276,339,samsung s9 plus
+39,Youtube,150,139,samsung s9 plus
+39,Camera,135,136,samsung s9 plus
+39,Chrome,303,362,samsung s9 plus
+40,Youtube,183,137,samsung s9 plus
+40,Camera,141,136,samsung s9 plus
+40,Chrome,287,368,samsung s9 plus
+41,Youtube,143,123,samsung s9 plus
+41,Camera,146,153,samsung s9 plus
+41,Chrome,282,372,samsung s9 plus
+42,Youtube,157,132,samsung s9 plus
+42,Camera,149,141,samsung s9 plus
+42,Chrome,274,370,samsung s9 plus
+43,Youtube,144,131,samsung s9 plus
+43,Camera,144,149,samsung s9 plus
+43,Chrome,295,366,samsung s9 plus
+44,Youtube,146,134,samsung s9 plus
+44,Camera,142,167,samsung s9 plus
+44,Chrome,298,362,samsung s9 plus
+45,Youtube,142,133,samsung s9 plus
+45,Camera,127,164,samsung s9 plus
+45,Chrome,290,370,samsung s9 plus
+46,Youtube,189,219,samsung s9 plus
+46,Camera,144,141,samsung s9 plus
+46,Chrome,279,364,samsung s9 plus
+47,Youtube,183,171,samsung s9 plus
+47,Camera,139,133,samsung s9 plus
+47,Chrome,277,308,samsung s9 plus
+48,Youtube,151,139,samsung s9 plus
+48,Camera,142,134,samsung s9 plus
+48,Chrome,259,364,samsung s9 plus
+49,Youtube,167,136,samsung s9 plus
+49,Camera,147,140,samsung s9 plus
+49,Chrome,268,343,samsung s9 plus
+50,Youtube,153,163,samsung s9 plus
+50,Camera,146,131,samsung s9 plus
+50,Chrome,273,318,samsung s9 plus
+51,Youtube,152,135,samsung s9 plus
+51,Camera,151,141,samsung s9 plus
+51,Chrome,284,358,samsung s9 plus
+52,Youtube,142,130,samsung s9 plus
+52,Camera,133,170,samsung s9 plus
+52,Chrome,282,389,samsung s9 plus
+53,Youtube,151,132,samsung s9 plus
+53,Camera,145,124,samsung s9 plus
+53,Chrome,258,358,samsung s9 plus
+54,Youtube,143,130,samsung s9 plus
+54,Camera,136,136,samsung s9 plus
+54,Chrome,257,356,samsung s9 plus
+55,Youtube,193,153,samsung s9 plus
+55,Camera,141,135,samsung s9 plus
+55,Chrome,205,359,samsung s9 plus
+56,Youtube,191,180,samsung s9 plus
+56,Camera,153,129,samsung s9 plus
+56,Chrome,214,356,samsung s9 plus
+57,Youtube,149,132,samsung s9 plus
+57,Camera,184,140,samsung s9 plus
+57,Chrome,208,355,samsung s9 plus
+58,Youtube,149,140,samsung s9 plus
+58,Camera,150,125,samsung s9 plus
+58,Chrome,205,360,samsung s9 plus
+59,Youtube,170,129,samsung s9 plus
+59,Camera,157,174,samsung s9 plus
+59,Chrome,192,312,samsung s9 plus
+60,Youtube,144,125,samsung s9 plus
+60,Camera,136,132,samsung s9 plus
+60,Chrome,193,353,samsung s9 plus
+61,Youtube,177,125,samsung s9 plus
+61,Camera,131,160,samsung s9 plus
+61,Chrome,208,375,samsung s9 plus
+62,Youtube,170,138,samsung s9 plus
+62,Camera,130,136,samsung s9 plus
+62,Chrome,207,360,samsung s9 plus
+63,Youtube,148,123,samsung s9 plus
+63,Camera,137,166,samsung s9 plus
+63,Chrome,203,349,samsung s9 plus
+64,Youtube,185,150,samsung s9 plus
+64,Camera,146,130,samsung s9 plus
+64,Chrome,207,322,samsung s9 plus
+65,Youtube,232,183,samsung s9 plus
+65,Camera,141,139,samsung s9 plus
+65,Chrome,204,342,samsung s9 plus
+66,Youtube,148,135,samsung s9 plus
+66,Camera,159,137,samsung s9 plus
+66,Chrome,197,355,samsung s9 plus
+67,Youtube,147,142,samsung s9 plus
+67,Camera,141,161,samsung s9 plus
+67,Chrome,196,353,samsung s9 plus
+68,Youtube,148,128,samsung s9 plus
+68,Camera,139,135,samsung s9 plus
+68,Chrome,203,368,samsung s9 plus
+69,Youtube,151,159,samsung s9 plus
+69,Camera,167,142,samsung s9 plus
+69,Chrome,207,356,samsung s9 plus
+70,Youtube,148,137,samsung s9 plus
+70,Camera,148,153,samsung s9 plus
+70,Chrome,197,369,samsung s9 plus
+71,Youtube,145,147,samsung s9 plus
+71,Camera,140,136,samsung s9 plus
+71,Chrome,207,349,samsung s9 plus
+72,Youtube,148,131,samsung s9 plus
+72,Camera,149,132,samsung s9 plus
+72,Chrome,198,356,samsung s9 plus
+73,Youtube,193,170,samsung s9 plus
+73,Camera,134,135,samsung s9 plus
+73,Chrome,200,342,samsung s9 plus
+74,Youtube,202,176,samsung s9 plus
+74,Camera,114,139,samsung s9 plus
+74,Chrome,205,347,samsung s9 plus
+75,Youtube,149,169,samsung s9 plus
+75,Camera,128,150,samsung s9 plus
+75,Chrome,208,355,samsung s9 plus
+76,Youtube,142,127,samsung s9 plus
+76,Camera,164,163,samsung s9 plus
+76,Chrome,190,371,samsung s9 plus
+77,Youtube,143,134,samsung s9 plus
+77,Camera,141,132,samsung s9 plus
+77,Chrome,209,312,samsung s9 plus
+78,Youtube,154,133,samsung s9 plus
+78,Camera,172,116,samsung s9 plus
+78,Chrome,206,352,samsung s9 plus
+79,Youtube,157,129,samsung s9 plus
+79,Camera,134,154,samsung s9 plus
+79,Chrome,211,326,samsung s9 plus
+80,Youtube,153,137,samsung s9 plus
+80,Camera,153,129,samsung s9 plus
+80,Chrome,216,349,samsung s9 plus
+81,Youtube,176,123,samsung s9 plus
+81,Camera,144,127,samsung s9 plus
+81,Chrome,203,337,samsung s9 plus
+82,Youtube,223,137,samsung s9 plus
+82,Camera,124,136,samsung s9 plus
+82,Chrome,212,334,samsung s9 plus
+83,Youtube,191,131,samsung s9 plus
+83,Camera,131,110,samsung s9 plus
+83,Chrome,205,339,samsung s9 plus
+84,Youtube,149,180,samsung s9 plus
+84,Camera,123,120,samsung s9 plus
+84,Chrome,200,370,samsung s9 plus
+85,Youtube,148,239,samsung s9 plus
+85,Camera,146,139,samsung s9 plus
+85,Chrome,212,364,samsung s9 plus
+86,Youtube,137,133,samsung s9 plus
+86,Camera,134,131,samsung s9 plus
+86,Chrome,195,350,samsung s9 plus
+87,Youtube,147,157,samsung s9 plus
+87,Camera,169,139,samsung s9 plus
+87,Chrome,210,365,samsung s9 plus
+88,Youtube,154,151,samsung s9 plus
+88,Camera,146,138,samsung s9 plus
+88,Chrome,208,346,samsung s9 plus
+89,Youtube,145,145,samsung s9 plus
+89,Camera,141,110,samsung s9 plus
+89,Chrome,212,309,samsung s9 plus
+90,Youtube,149,137,samsung s9 plus
+90,Camera,173,141,samsung s9 plus
+90,Chrome,191,361,samsung s9 plus
+91,Youtube,188,139,samsung s9 plus
+91,Camera,172,136,samsung s9 plus
+91,Chrome,218,381,samsung s9 plus
+92,Youtube,181,149,samsung s9 plus
+92,Camera,169,169,samsung s9 plus
+92,Chrome,200,331,samsung s9 plus
+93,Youtube,143,155,samsung s9 plus
+93,Camera,139,145,samsung s9 plus
+93,Chrome,199,358,samsung s9 plus
+94,Youtube,126,180,samsung s9 plus
+94,Camera,156,148,samsung s9 plus
+94,Chrome,183,354,samsung s9 plus
+95,Youtube,142,175,samsung s9 plus
+95,Camera,151,153,samsung s9 plus
+95,Chrome,189,347,samsung s9 plus
+96,Youtube,141,173,samsung s9 plus
+96,Camera,142,130,samsung s9 plus
+96,Chrome,208,350,samsung s9 plus
+97,Youtube,154,172,samsung s9 plus
+97,Camera,136,137,samsung s9 plus
+97,Chrome,211,343,samsung s9 plus
+98,Youtube,141,178,samsung s9 plus
+98,Camera,141,127,samsung s9 plus
+98,Chrome,202,362,samsung s9 plus
+99,Youtube,139,170,samsung s9 plus
+99,Camera,146,137,samsung s9 plus
+99,Chrome,208,304,samsung s9 plus
+100,Youtube,185,176,samsung s9 plus
+100,Camera,161,142,samsung s9 plus
+100,Chrome,211,329,samsung s9 plus
